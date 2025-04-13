@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
     return [
       {
         source: "/:path*",
-        destination: "https://bento.me/work-ore",
+        destination: "https://bento.me/ore-cv",
         permanent: true,
       },
     ];
